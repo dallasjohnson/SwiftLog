@@ -22,3 +22,5 @@ Log.error("Another error occurred: ", error)
 ```
 
 Because you have the `Log.swift` in your project it's easy to just add extra log types as needed or include extra logic to help filter by Log level or DEBUG flags etc.
+
+Included is a Playground with the `Log.swift` file so you can experiment yourself before including your customised version in your project.
